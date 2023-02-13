@@ -17,7 +17,7 @@ import io.swagger.v3.oas.annotations.info.Info;
 @EnableScheduling
 @EnableAspectJAutoProxy
 public class ScApplication {
-
+//this is my SC project
 	public static void main(String[] args) {
 		SpringApplication.run(ScApplication.class, args);
 	}
