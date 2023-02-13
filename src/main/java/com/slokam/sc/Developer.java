@@ -2,7 +2,7 @@ package com.slokam.sc;
 
 import org.springframework.stereotype.Component;
 
-
+//this is SC project
 @Component
 public class Developer {
 
